@@ -271,7 +271,12 @@ INSERT INTO `Equipement` (`Nom`, `Nombre`, `Key_CorpArmes`) VALUES
 ('Unimog 4000/5000', NULL, 'ATT'),
 ('UT1', NULL, 'ATT'),
 ('Vuran', 300, 'ATT'),
-('Zipkin KMS', 90, 'FAT');
+('Zipkin KMS', 90, 'FAT'),
+('Akya Torpedo', 12, 'MTU'),
+('Hisar-A+', 25, 'FAT'),
+('Hisar-O+', 15, 'FAT'),
+('Atmaca ASuW missile', 45, 'MTU'),
+('Siper SAM', 5, 'FAT');
 
 --
 -- Index pour les tables déchargées
